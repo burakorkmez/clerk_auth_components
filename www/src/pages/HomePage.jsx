@@ -52,7 +52,7 @@ const HomePage = () => {
             </div>
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/burakorkmez/clerk_auth_components"
                 className="flex items-center gap-2 px-4 py-1.5 text-sm text-zinc-400 hover:text-white transition-all hover:translate-y-[-1px] group"
               >
                 <Github
@@ -141,7 +141,7 @@ const HomePage = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-violet-500/20 to-cyan-500/20 opacity-0 group-hover:opacity-100 transition-opacity" />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/burakorkmez/clerk_auth_components"
                 className="w-full sm:w-auto group px-8 py-3.5 rounded-full bg-white/5 text-white font-medium hover:bg-white/10 transition-all hover:translate-y-[-1px] border border-white/10"
               >
                 <span className="relative z-10 flex items-center justify-center gap-2 text-base">
@@ -248,7 +248,7 @@ const HomePage = () => {
             </div>
             <div className="flex items-center gap-6">
               <a
-                href="https://github.com"
+                href="https://github.com/burakorkmez/clerk_auth_components"
                 className="text-zinc-400 hover:text-white transition-colors"
               >
                 GitHub
